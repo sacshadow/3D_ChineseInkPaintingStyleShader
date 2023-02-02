@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7710661998669951558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7710661998669951559}
+  - component: {fileID: 7710661998669951552}
+  m_Layer: 10
+  m_Name: Projector_BG
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &7710661998669951559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7710661998669951558}
+  m_LocalRotation: {x: -0.0671581, y: 0.9296278, z: -0.29311046, w: -0.21299833}
+  m_LocalPosition: {x: 380.3, y: 51.9, z: 195}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 35, y: 205.81, z: 0}
+--- !u!119 &7710661998669951552
+Projector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7710661998669951558}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_NearClipPlane: 0.1
+  m_FarClipPlane: 5000
+  m_FieldOfView: 118.02
+  m_AspectRatio: 1
+  m_Orthographic: 0
+  m_OrthographicSize: 104.6
+  m_Material: {fileID: 2100000, guid: b9f8c23acb22af14caa2c9b97dc21842, type: 2}
+  m_IgnoreLayers:
+    serializedVersion: 2
+    m_Bits: 18436

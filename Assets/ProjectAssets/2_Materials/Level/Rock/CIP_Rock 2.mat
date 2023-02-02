@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CIP_Rock 2
+  m_Shader: {fileID: 4800000, guid: f07050b35d6af1943ad97d00d9375fd6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Bump0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Bump1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Bump2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Bump3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ca:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cliff:
+        m_Texture: {fileID: 2800000, guid: 86178dee623cbcc4d8dd69e173d8fba0, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _Cliff2:
+        m_Texture: {fileID: 2800000, guid: e69e7f570e09c1640ba22276608df8f3, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _CliffBump:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CliffBump2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorRemap:
+        m_Texture: {fileID: 2800000, guid: 1e7ef58b73d1cdd4e8bad87df66b59fd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _InLineMC:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 324b9340d1104db4caf42c746779fa6d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap:
+        m_Texture: {fileID: 2800000, guid: def01c6de599a684a82708232d262aa7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 064bf040c4393c14395c31c281f61ff1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutLineMC:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutLineRemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineMC:
+        m_Texture: {fileID: 2800000, guid: def01c6de599a684a82708232d262aa7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Stroke:
+        m_Texture: {fileID: 2800000, guid: 4cc69b8e581b84a43b40c1ff7da5d6f0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex0:
+        m_Texture: {fileID: 2800000, guid: 1e251657a3d3a9e4c8f50bd7ee539b9c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex1:
+        m_Texture: {fileID: 2800000, guid: 333daed9062234042a767864963b0617, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex3:
+        m_Texture: {fileID: 2800000, guid: 19ddefd3b44044842a932b368fd82929, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexSide:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexTop:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonShade:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _CRRange: 50
+    - _CliffColor: 0.705
+    - _Cun: 0.5
+    - _Cutoff: 0.456
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _ILCapScale: 0.95
+    - _InlineStrokeColor: 2
+    - _MaxOutline: 0.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseRM: 1
+    - _NoiseScale: 1
+    - _OLCapScale: 0.95
+    - _OcclusionStrength: 1
+    - _Outline0: 0.01
+    - _Outline1: 0.02
+    - _OutlineWidth0: 2.7
+    - _OutlineWidth1: 1.9
+    - _Parallax: 0.02
+    - _Ran0: 0.89
+    - _Ran1: 0.41
+    - _RimOffset: -0.25
+    - _RimRate: 0.9
+    - _RimRateClose: 2.5
+    - _RimRateRange: 8
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Divid: {r: 0.8, g: 0.4, b: 0.2, a: 0.2}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _InlineCtrl: {r: 5.03, g: 9.52, b: 9.25, a: 9.64}
+    - _InlineStroke: {r: 0.5, g: 0.5, b: 2, a: 0.6}
+    - _LayerWeight: {r: 1, g: 1, b: 1, a: 1}
+    - _NoiseCtrl: {r: 0.6, g: 0.85, b: -0.08, a: 1.49}
+    - _OutlineColor: {r: 0.23584908, g: 0.23584908, b: 0.23584908, a: 1}
+    - _OutlineCtrl: {r: 0.8, g: 0.5, b: 58.78, a: 10}
+    - _OutlineNoiseCtrl: {r: 171.19, g: 5.5, b: 1, a: 1}
+    - _OutlineTexCtrl: {r: 0.89, g: 1, b: 164.8, a: 11.48}
+    - _RemapCtrl: {r: 256, g: 64, b: 0.39, a: 4.51}
+    - _RimColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ScaleTex: {r: 1, g: 1, b: 1, a: 1}
+    - _StrokeCtrl: {r: 11.51, g: 0.97, b: 0.6, a: 0.47}
